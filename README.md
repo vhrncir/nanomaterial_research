@@ -8,3 +8,5 @@
 * **Photocatalysis Setup**
 Designed and validated a custom 3D-modeled reactor system optimized for photocatalysis testing using nanoparticle suspensions in a colloidal environment.
 <img width="972" height="457" alt="photocatalysis_setup" src="https://github.com/user-attachments/assets/dde0c371-a03c-4c01-b253-2161daf3c7e0" />
+
+* **[Laser Diaphragm]()**
