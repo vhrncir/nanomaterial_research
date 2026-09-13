@@ -18,5 +18,5 @@ Code for a servo-driven laser diaphragm to minimize switching noise in the analy
 
 Failure Mode and Effects Analysis of a laboratory laser experiment (based on real-world setups). Featuring the evaluation of critical safety hazards and optical failures, implementation of the AIAG & VDA (2019) Action Priority (AP) matrix, and strict engineering mitigation routing (Prevention vs. Detection).
 
-<img width="1200" height="600" alt="FMEA_laser" src="https://github.com/user-attachments/assets/29a283a4-14f3-4a92-901b-c24a2fd30bea" />
+<img width="1000" height="600" alt="FMEA_laser" src="https://github.com/user-attachments/assets/435c2007-a2a0-4c6f-9b60-927e1a963245" />
 <img width="500" height="450" alt="Pareto_Laser" src="https://github.com/user-attachments/assets/e6b07db0-11b2-4325-b6b7-7ed82530d035" />
